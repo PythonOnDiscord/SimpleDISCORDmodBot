@@ -24,7 +24,9 @@ Your bot should now be online and ready to use!
 
 The default command prefix for this bot is !. You can change this by modifying the command_prefix parameter in bot.py.
 
-Commands\nTo use a command, simply type the command name preceded by the command prefix.
+**Commands**
+
+To use a command, simply type the command name preceded by the command prefix.
 
 COMMAND-NAME: BOT RESPONSE
 
