@@ -20,7 +20,7 @@ async def on_ready():
 # Next we will define a command, keep in mind you may change this how ever way you would like.
 
 @bot.command(name='COMMAND-NAME')
-async def COMMAND-NAME(ctx):
+async def COMMANDNAME(ctx):
     await ctx.send('BOT RESPONSE')
 
 # We have defined a command successfully! Now we can create a system to log in!
